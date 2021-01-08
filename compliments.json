@@ -102,7 +102,7 @@
         "You're the best",
         "You're fantastic",
         "You're really flipping smart",
-        "You look awesome today, seriously"
+        "You look awesome today, seriously",
 	"You're the cat's meow and the dog's bow-wow"  
     ],
     "morning" : [
@@ -110,10 +110,10 @@
         "Welcome back to the land of the living",
         "Go get 'em, Babes!",
         "I see you're up - thinking of you",
-        "Good Morning Tumbi"
-	"Now that you are awake, come give me some love"
-	"Good morning Amai Chimuzinga"
-	"Good morning Mrs Chimuzinga"
+        "Good Morning Tumbi",
+	"Now that you are awake, come give me some love",
+	"Good morning Amai Chimuzinga",
+	"Good morning Mrs Chimuzinga",
 	"Good morning TunTuns"
     ],
     "afternoon" : [
@@ -126,6 +126,8 @@
         "You are making a difference",
         "The day was better for your efforts",
         "See you tomorrow!",
+	"Good night Dr",
+	"Good night Mrs Chimz",
         "Sleep tight"
     ],
     "snow": [
